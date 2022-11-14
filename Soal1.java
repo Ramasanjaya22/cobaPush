@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 /*
  * 1. meminta inputan nama1,nama2,jam
